@@ -24,7 +24,7 @@
 <br />
 
 <div id="badges" align="center">
-<img src=""/>
+<img src="welcome.gif"/>
 </div>
 <br>
 <br>
