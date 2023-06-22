@@ -1,7 +1,17 @@
-- 👋 Hi, I’m @Mush2h
-- 👀 I’m interested in CiberSecurity
-- 🌱 I´m an engineering student
-- 📫 How to reach me mushuhack@gmail.com
+
+<div id="header" align="center">
+    <img src="https://media.giphy.com/media/QZkpIdieotn3i/giphy.gif" width="200" />
+    <h1 align="center">Hi 👋, I'm Mush2 </h1>
+    <h3 align="center">A passionate about Cybersecurity from Spain.</h3>
+</div>
+---
+
+### 👨‍💻 About Me :
+
+- 📝 I´m an engineering student
+
+- 📫 How to reach me **fergarciamolina99@gmail.com**
+
 
 <br>
 <div id="badges" align="center">
