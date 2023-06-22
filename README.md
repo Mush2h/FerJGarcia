@@ -1,6 +1,6 @@
 
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/wosNsGaxczbIA/giphy.gif" width="200" />
+    <img src="https://media.giphy.com/media/iCO7eUSy82XXq/giphy.gif" width="200" />
     <h1 align="center">Hi 👋, I'm Mush2 </h1>
     <h3 align="center">A passionate about Cybersecurity from Spain.</h3>
 </div>
