@@ -5,7 +5,7 @@
 
 <br>
 <div id="badges" align="center">
-      <a href="https://fergarcia99.github.io/">
+      <a href="https://mush2h.github.io">
         <img src="https://img.shields.io/badge/Personal%20Web-black?style=for-the-badge&logo=television"
           alt="Web Badge" />
       </a>
