@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mush2
 - 👀 I’m interested in CiberSecurity
-- 🌱 I am a current engineering student
+- 🌱 I´m an engineering student
 - 📫 How to reach me mushuhack@gmail.com
 
 <br>
