@@ -10,27 +10,21 @@
           alt="Web Badge" />
       </a>
       &nbsp;&nbsp;&nbsp;
-      <a href="https://www.linkedin.com/in/emilio-s%C3%A1nchez-garc%C3%ADa/" target="_blank">
+      <a href="https://www.linkedin.com/in/fernando-jes%C3%BAs-g-234375203" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
           alt="LinkedIn Badge" />
       </a>
       &nbsp;&nbsp;&nbsp;
-      <a href="https://app.hackthebox.com/profile/380109" target="_blank">
+      <a href="https://app.hackthebox.com/profile/562959" target="_blank">
         <img src="https://img.shields.io/badge/HackTheBox-green?style=for-the-badge&logo=hackthebox&logoColor=black"
           alt="HackTheBox Badge" />
-      </a>
-      &nbsp;&nbsp;&nbsp;
-      <a href="mailto: zeropio@pm.me">
-        <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"
-          alt="Protonmail Badge" />
-      </a>
     </div>
 <br />
 <br />
 <br />
 
 <div id="badges" align="center">
-<img src="/img/Circuits.gif"/>
+<img src=""/>
 </div>
 <br>
 <br>
