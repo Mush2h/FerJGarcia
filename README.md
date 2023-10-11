@@ -29,7 +29,7 @@
 
 <div id="badges" align="center">
     <p align="center">
-        <a href="https://github.com/ArisGuimera">
+        <a href="https://github.com/Mush2h">
           <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Mush2h&layout=compact&langs_count=8&theme=algolia"/>
         </a>
     </p>
