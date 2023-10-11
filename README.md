@@ -14,11 +14,6 @@
 
 <br>
 <div id="badges" align="center">
-      <a href="https://mush2h.github.io">
-        <img src="https://img.shields.io/badge/Personal%20Web-black?style=for-the-badge&logo=television"
-          alt="Web Badge" />
-      </a>
-      &nbsp;&nbsp;&nbsp;
       <a href="https://www.linkedin.com/in/fernando-jes%C3%BAs-g-234375203" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
           alt="LinkedIn Badge" />
