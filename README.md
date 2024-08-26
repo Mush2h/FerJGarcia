@@ -20,7 +20,7 @@
 ### 🛠️ Projects:
 
 - [Cybersecurity Notes](https://github.com/Mush2h/Cybersecurity-notes): A collection of notes on various cybersecurity concepts and techniques.
-- [CTF Write-up]([link](https://github.com/Mush2h/Writeups-CTF)): Detailed write-up of a Capture The Flag challenge I successfully solved.
+- [CTF Write-up]((https://github.com/Mush2h/Writeups-CTF)): Detailed write-up of a Capture The Flag challenge I successfully solved.
 
 ### 📫 How to reach me:
 
