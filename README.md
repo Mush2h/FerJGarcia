@@ -26,6 +26,11 @@
 
 **fergarciamolina@protonmail.com**
 
+### 🏅 Certifications:
+
+- Burp Suite Certified Practitioner (In Progress)
+- Certified Ethical Hacker (CEH) (Planned)
+
 <br>
 <div id="badges" align="center">
       <a href="https://www.linkedin.com/in/fernando-jes%C3%BAs-g-234375203" target="_blank">
@@ -42,11 +47,6 @@
 <br />
 <br />
 
-
-### 🏅 Certifications:
-
-- Burp Suite Certified Practitioner (In Progress)
-- Certified Ethical Hacker (CEH) (Planned)
 
 <div id="badges" align="center">
     <p align="center">
