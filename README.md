@@ -29,7 +29,7 @@
 ### 🏅 Certifications:
 
 - Burp Suite Certified Practitioner (In Progress)
-- Certified Ethical Hacker (CEH) (Planned)
+- OSCP (Planned)
 
 <br>
 <div id="badges" align="center">
