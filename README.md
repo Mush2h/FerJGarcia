@@ -29,7 +29,6 @@
 ### 🏅 Certifications:
 
 - Burp Suite Certified Practitioner (In Progress)
-- OSCP (Planned)
 
 <br>
 <div id="badges" align="center">
