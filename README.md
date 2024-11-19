@@ -8,7 +8,7 @@
 - 🔒 Passionate about ethical hacking and network security
 - 🌱 Currently learning penetration testing techniques
 - 🎓 Studying Computer Engineering at University of Granada
-- 🚀 Aiming to become a Certified Ethical Hacker
+- 🚀 Aiming to become a Ethical Hacker
 
 ### 💻 Skills:
 
